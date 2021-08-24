@@ -13,7 +13,7 @@ export default class Footer extends React.Component {
         const hasSocial = _.get(footer, 'has_social');
         const socialLinks = _.get(footer, 'social_links');
 
-        return (
+       < return (
               "footer": {
         "content": "ALL RIGHTS RESERVED - ",
         "has_social": true,
