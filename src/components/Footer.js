@@ -18,7 +18,7 @@ export default class Footer extends React.Component {
                 <div className="inner">
                     <div className="site-footer-inside">
                         <p className="site-info">
-                           "label": "Designed by Harteliefie & Netgitry",
+                           <p"label": "Designed by Harteliefie & Netgitry",
                 "url": "https://www.facebook.com/Harteliefie/",
                 "style": "link",
                 "icon_class": "facebook",
