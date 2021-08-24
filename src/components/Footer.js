@@ -36,4 +36,4 @@ export default class Footer extends React.Component {
         );
     }
 }
-{<footer>&copy; Copyright 2021 HTML.am</footer>}
+
