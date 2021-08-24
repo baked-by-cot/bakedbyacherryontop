@@ -14,26 +14,46 @@ export default class Footer extends React.Component {
         const socialLinks = _.get(footer, 'social_links');
 
         return (
-            <footer id="colophon" className="site-footer outer">
-                <div className="inner">
-                    <div className="site-footer-inside">
-                        <p className="site-info">
-                            {copyright && <span className="copyright">{htmlToReact(copyright)}</span>}
-                            {_.map(links, (action, index) => (
-                                <Action key={index} action={action} />
-                            ))}
-                        </p>
-                        {hasSocial && !_.isEmpty(socialLinks) && (
-                            <div className="social-links">
-                                {_.map(socialLinks, (action, index) => (
-                                    <Action key={index} action={action} />
-                                ))}
-                            </div>
-                        )}
-                    </div>
-                </div>
-            </footer>
-        );
-    }
+              "footer": {
+        "content": "ALL RIGHTS RESERVED - ",
+        "has_social": true,
+        "social_links": [
+            {
+                "label": "Facebook",
+                "url": "https://www.facebook.com/bakedbyacherryontop/",
+                "style": "icon",
+                "icon_class": "facebook",
+                "new_window": true
+            },
+            {
+                "label": "Instagram",
+                "url": "https://www.instagram.com/bakedbyacherryontop/",
+                "style": "icon",
+                "icon_class": "instagram",
+                "new_window": true
+            },
+            {
+                "label": "Baked by a Cherry on Top",
+                "url": "https://wa.me/message/WYKY5SMM27SEH1",
+                "style": "link",
+                "icon_class": "dev",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            }
+        ],
+        "links": [
+            {
+                "label": "Designed by Harteliefie & Netgitry",
+                "url": "https://www.facebook.com/Harteliefie/",
+                "style": "link",
+                "icon_class": "facebook",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            }
+        ]
+     },
+
 }
 
