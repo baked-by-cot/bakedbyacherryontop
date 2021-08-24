@@ -39,7 +39,7 @@ export default class Footer extends React.Component {
                 "icon_class": "dev",
                 "new_window": false,
                 "no_follow": false,
-                "type": "action"
+                "type": "action">
             }
         ],
         "links": [
