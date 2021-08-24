@@ -3,29 +3,50 @@ title: Showcase
 sections:
   - section_id: hero
     type: section_hero
-    title: Showcase
     image: images/5.jpg
-    content: This is an optional page subtitle
-  - section_id: showcase
-    type: section_grid
-    col_number: three
-    grid_items:
-      - title: Exto
-        title_url: 'https://themes.stackbit.com/demos/exto/'
-        image: images/6.jpg
-        content: A portfolio theme for Unibit
-      - title: Fresh
-        title_url: 'https://themes.stackbit.com/demos/fresh/'
-        image: images/7.jpg
-        content: A personal theme for Unibit
-      - title: Fjord
-        title_url: 'https://themes.stackbit.com/demos/fjord/'
-        image: images/8.jpg
-        content: A minimal blogging theme for Unibit
-      - title: Ampersand
-        title_url: 'https://themes.stackbit.com/demos/ampersandexto/'
-        image: images/9.jpg
-        content: Medium inspired blogging theme for Unibit
+    title: Showcase of some of our latest Creations & Features
+  - section_id: lorem-ipsum
+    image_alt: lorem-ipsum
+    image_position: left
+    content: >
+      ### 7de Laan's 5000th Episode
+
+
+      This time we celebrated with a beautifully baked number 5000 individual
+      cakes
+
+
+      ###### CONGRATS on 5000 Episodes!!!
+    actions: []
+    type: section_content
+    image: /images/WhatsApp Image 2021-01-28 at 7.13.30 AM.jpeg
+    title: We did it AGAIN!!!
+  - title: We had the opportunity to bake for 7de Laan
+    section_id: lorem-ipsum
+    image_alt: lorem-ipsum
+    image_position: left
+    content: >
+      **We had the honor & priviledge to bake a cake for an episode of 7de
+      Laan**
+
+
+
+      *It was truely the highlight of my career thus far and has opened so many
+      doors for us*
+
+
+      ###### We look forward to baking your wedding cake
+    actions:
+      - label: Click here to watch the 7de Laan episode featuring our creation
+        url: >-
+          https://www.viu.com/ott/za/en/all/video-english-drama-tv_shows-7de_laan_s21_ep_249_thurs_1_oct-1165792455?containerId=playlist-26269447&utm_source=org_socialsharing
+        style: primary
+        icon_class: dev
+        new_window: false
+        no_follow: false
+        type: action
+    type: section_content
+    image: /images/thoughtful-jupiter.png
 seo:
   title: Showcase
   description: This is the showcase page
