@@ -18,7 +18,13 @@ export default class Footer extends React.Component {
                 <div className="inner">
                     <div className="site-footer-inside">
                         <p className="site-info">
-                            {copyright && <span className="copyright">{htmlToReact(copyright)}</span>}
+                           "label": "Designed by Harteliefie & Netgitry",
+                "url": "https://www.facebook.com/Harteliefie/",
+                "style": "link",
+                "icon_class": "facebook",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action" {copyright && <span className="copyright">{htmlToReact(copyright)}</span>}
                             {_.map(links, (action, index) => (
                                 <Action key={index} action={action} />
                             ))}
