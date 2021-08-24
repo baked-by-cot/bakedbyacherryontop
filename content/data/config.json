@@ -144,7 +144,7 @@
         ],
         "logo_img_alt": "Baked by a Cherry on Top"
     },
-  < "footer": {
+  "footer": {
         "content": "ALL RIGHTS RESERVED - ",
         "has_social": true,
         "social_links": [
