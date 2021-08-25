@@ -502,8 +502,7 @@ sections:
     actions: []
     type: section_content
     image: /images/IMG_20210509_191515_229.jpg
-  - section_id: t
-    image_alt: lorem-ipsum
+  - image_alt: lorem-ipsum
     image_position: left
     content: >-
       ## Lorem ipsum
