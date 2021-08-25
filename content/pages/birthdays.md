@@ -504,17 +504,13 @@ sections:
     image: /images/IMG_20210509_191515_229.jpg
   - image_alt: lorem-ipsum
     image_position: left
-    content: >-
-      ## Lorem ipsum
+    content: |+
+      ## Cars Theme
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
+      *   ![](/images/20190301\_061951.jpg)
 
-      - Lorem ipsum
-
-      - dolor sit amet
     actions: []
     type: section_content
     section_id: Laser
