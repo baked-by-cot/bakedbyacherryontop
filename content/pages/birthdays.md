@@ -504,10 +504,9 @@ sections:
     image: /images/IMG_20210509_191515_229.jpg
   - image_alt: lorem-ipsum
     image_position: left
-    content: |
-      ## Cars Theme
+    content: |+
+      ##                                                    
 
-      ![](/images/20190301\_061951.jpg)
     actions: []
     type: section_content
     section_id: Laser
