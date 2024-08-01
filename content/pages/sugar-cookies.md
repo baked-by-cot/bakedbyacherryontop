@@ -174,10 +174,7 @@ sections:
       #### [Order On Whatsapp](https://wa.me/message/WYKY5SMM27SEH1)&#xA;&#xA;
     actions: []
     type: section_content
-    image: /images/IMG-4960.jpg
   - section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    image_position: left
     content: |
       ## Heart Surprise
 
@@ -195,7 +192,6 @@ sections:
       #### [Order On Whatsapp](https://wa.me/message/WYKY5SMM27SEH1)&#xA;&#xA;
     actions: []
     type: section_content
-    image: /images/IMG-5002.jpg
   - section_id: lorem-ipsum
     content: |
       ## Gin
