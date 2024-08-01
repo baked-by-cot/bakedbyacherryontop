@@ -6,8 +6,7 @@
         "title": "Baked by a Cherry on Top",
         "logo_img": "/images/violet-sparrow.png",
         "has_nav": true,
-        "nav_links": [
-            {
+        "nav_links": [{
                 "label": "Home",
                 "url": "/",
                 "style": "primary",
@@ -22,8 +21,7 @@
                 "new_window": false,
                 "no_follow": false,
                 "has_subnav": true,
-                "subnav_links": [
-                    {
+                "subnav_links": [{
                         "label": "Cakes",
                         "url": "/cakes",
                         "style": "link",
@@ -112,28 +110,15 @@
                 "type": "action_menu"
             },
             {
-                "label": "Laser engravings",
-                "url": "/lazer",
-                "style": "primary",
-                "icon_class": "dev",
-                "new_window": false,
-                "no_follow": false,
-                "has_subnav": false,
-                "subnav_links": [],
-                "type": "action_menu"
-            },
-            {
                 "label": "Reviews",
                 "url": "/reviews",
                 "style": "primary",
                 "has_subnav": false,
-                "subnav_links": [
-                    {
-                        "label": "Showcase",
-                        "url": "/showcase",
-                        "style": "link"
-                    }
-                ]
+                "subnav_links": [{
+                    "label": "Showcase",
+                    "url": "/showcase",
+                    "style": "link"
+                }]
             },
             {
                 "label": "Contact Us",
@@ -144,11 +129,10 @@
         ],
         "logo_img_alt": "Baked by a Cherry on Top"
     },
-  "footer": {
+    "footer": {
         "content": "ALL RIGHTS RESERVED - ",
         "has_social": true,
-        "social_links": [
-            {
+        "social_links": [{
                 "label": "Facebook",
                 "url": "https://www.facebook.com/bakedbyacherryontop/",
                 "style": "icon",
@@ -172,18 +156,16 @@
                 "type": "action"
             }
         ],
-        "links": [
-            {
-                "label": "Designed by Harteliefie & Netgitry",
-                "url": "https://www.facebook.com/Harteliefie/",
-                "style": "link",
-                "icon_class": "facebook",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
-            }
-        ]
-     },
+        "links": [{
+            "label": "Designed by Harteliefie & Netgitry",
+            "url": "https://www.facebook.com/Harteliefie/",
+            "style": "link",
+            "icon_class": "facebook",
+            "new_window": false,
+            "no_follow": false,
+            "type": "action"
+        }]
+    },
     "domain": "https://www.bakedbyacherryontop.co.za",
     "favicon": "/images/violet-sparrow.png"
 }

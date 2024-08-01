@@ -7,7 +7,7 @@ sections:
       - title_url: lorem-ipsum
         image_alt: lorem-ipsum
         content: |
-          #### **Buttercream – R120 per dozen**
+          #### **Buttercream**
 
           *   Red velvet
 
@@ -25,7 +25,7 @@ sections:
       - title_url: lorem-ipsum
         image_alt: lorem-ipsum
         content: |
-          #### **Buttercream essenses – R140 per dozen**&#xA;
+          #### **Buttercream essenses**&#xA;
 
           Orange, Lemon, Caramel, Tutti frutti,
 
@@ -43,9 +43,9 @@ sections:
       - title_url: lorem-ipsum
         image_alt: lorem-ipsum
         content: |+
-          ##### **Buttercream 2D topper Cupcakes** – R18 each
+          ##### **Buttercream 2D topper Cupcakes**
 
-          ##### **Buttercream 3D topper Cupcakes** – from R25 each\*\*
+          ##### **Buttercream 3D topper Cupcakes**
 
 
 
