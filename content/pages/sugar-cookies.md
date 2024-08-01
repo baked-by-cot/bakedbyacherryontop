@@ -166,8 +166,6 @@ sections:
     actions: []
     type: section_content
   - section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    image_position: left
     content: |
       ## Fruity
 
@@ -188,10 +186,7 @@ sections:
       #### [Order On Whatsapp](https://wa.me/message/WYKY5SMM27SEH1)&#xA;&#xA;
     actions: []
     type: section_content
-    image: /images/IMG-4963.jpg
   - section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    image_position: left
     content: |
       ## Floral Chocolate Chip
 
@@ -202,8 +197,6 @@ sections:
     type: section_content
     image: /images/IMG-5002.jpg
   - section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    image_position: left
     content: |
       ## Gin
 
@@ -212,10 +205,7 @@ sections:
       #### [Order On Whatsapp](https://wa.me/message/WYKY5SMM27SEH1)&#xA;&#xA;
     actions: []
     type: section_content
-    image: /images/IMG-5040.jpg
   - section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    image_position: left
     content: |
       ## Colorful Number 3
 
@@ -224,10 +214,7 @@ sections:
       #### [Order On Whatsapp](https://wa.me/message/WYKY5SMM27SEH1)&#xA;&#xA;
     actions: []
     type: section_content
-    image: /images/IMG-5056.jpg
   - section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    image_position: left
     content: |
       ## Love - Heart
 
@@ -236,10 +223,7 @@ sections:
       #### [Order On Whatsapp](https://wa.me/message/WYKY5SMM27SEH1)&#xA;&#xA;
     actions: []
     type: section_content
-    image: /images/IMG-5062.jpg
   - section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    image_position: left
     content: |
       ## The Grinch
 
@@ -248,10 +232,7 @@ sections:
       #### [Order On Whatsapp](https://wa.me/message/WYKY5SMM27SEH1)&#xA;&#xA;
     actions: []
     type: section_content
-    image: /images/IMG-5125.jpg
   - section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    image_position: left
     content: |
       ## Easter Egg cookies
 
@@ -260,10 +241,7 @@ sections:
       #### [Order On Whatsapp](https://wa.me/message/WYKY5SMM27SEH1)&#xA;&#xA;
     actions: []
     type: section_content
-    image: /images/IMG-5202.jpg
   - section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    image_position: left
     content: |
       ## Paint your own
 
@@ -272,10 +250,7 @@ sections:
       #### [Order On Whatsapp](https://wa.me/message/WYKY5SMM27SEH1)&#xA;&#xA;
     actions: []
     type: section_content
-    image: /images/IMG-5251.jpg
   - section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    image_position: left
     content: |
       ## Paint your own - Easter
 
@@ -284,10 +259,7 @@ sections:
       #### [Order On Whatsapp](https://wa.me/message/WYKY5SMM27SEH1)&#xA;&#xA;
     actions: []
     type: section_content
-    image: /images/IMG-5253.jpg
   - section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    image_position: left
     content: |
       ## Cute Vegetables
 
@@ -296,10 +268,7 @@ sections:
       #### [Order On Whatsapp](https://wa.me/message/WYKY5SMM27SEH1)&#xA;&#xA;
     actions: []
     type: section_content
-    image: /images/IMG-5263.jpg
   - section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    image_position: left
     content: |
       ## Easter
 
@@ -308,10 +277,7 @@ sections:
       #### [Order On Whatsapp](https://wa.me/message/WYKY5SMM27SEH1)&#xA;&#xA;
     actions: []
     type: section_content
-    image: /images/IMG-5435.jpg
   - section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    image_position: left
     content: |
       ## Beer With Ice
 
@@ -320,10 +286,7 @@ sections:
       #### [Order On Whatsapp](https://wa.me/message/WYKY5SMM27SEH1)&#xA;&#xA;
     actions: []
     type: section_content
-    image: /images/IMG-5640.jpg
   - section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    image_position: left
     content: |
       ## High Tea
 
@@ -332,10 +295,7 @@ sections:
       #### [Order On Whatsapp](https://wa.me/message/WYKY5SMM27SEH1)&#xA;&#xA;
     actions: []
     type: section_content
-    image: /images/IMG-5354.jpg
   - section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    image_position: left
     content: |
       ## Mothersday
 
@@ -344,10 +304,7 @@ sections:
       #### [Order On Whatsapp](https://wa.me/message/WYKY5SMM27SEH1)&#xA;&#xA;
     actions: []
     type: section_content
-    image: /images/IMG-5814.JPG
   - section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    image_position: left
     content: |
       ## Blessed Festial
 
@@ -356,10 +313,7 @@ sections:
       #### [Order On Whatsapp](https://wa.me/message/WYKY5SMM27SEH1)&#xA;&#xA;
     actions: []
     type: section_content
-    image: /images/IMG-5860.JPG
   - section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    image_position: left
     content: |
       ## Farm Animals
 
@@ -368,10 +322,7 @@ sections:
       #### [Order On Whatsapp](https://wa.me/message/WYKY5SMM27SEH1)&#xA;&#xA;
     actions: []
     type: section_content
-    image: /images/IMG-6090.jpg
   - section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    image_position: left
     content: |
       ## Super Dad
 
@@ -380,10 +331,7 @@ sections:
       #### [Order On Whatsapp](https://wa.me/message/WYKY5SMM27SEH1)&#xA;&#xA;
     actions: []
     type: section_content
-    image: /images/IMG-6120.jpg
   - section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    image_position: left
     content: |
       ## Cute Elephant
 
@@ -392,10 +340,7 @@ sections:
       #### [Order On Whatsapp](https://wa.me/message/WYKY5SMM27SEH1)&#xA;&#xA;
     actions: []
     type: section_content
-    image: /images/IMG-6171.JPG
   - section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    image_position: left
     content: |
       ## Star Wars
 
@@ -404,10 +349,7 @@ sections:
       #### [Order On Whatsapp](https://wa.me/message/WYKY5SMM27SEH1)&#xA;&#xA;
     actions: []
     type: section_content
-    image: /images/IMG-6261.jpg
   - section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    image_position: left
     content: |
       ## Cute Coffee Cookies
 
@@ -416,10 +358,7 @@ sections:
       #### [Order On Whatsapp](https://wa.me/message/WYKY5SMM27SEH1)&#xA;&#xA;
     actions: []
     type: section_content
-    image: /images/IMG-6270.jpg
   - section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    image_position: left
     content: |
       ## Paint your own cookies
 
@@ -428,7 +367,6 @@ sections:
       #### [Order On Whatsapp](https://wa.me/message/WYKY5SMM27SEH1)&#xA;&#xA;
     actions: []
     type: section_content
-    image: /images/IMG-6299.jpg
 seo:
   title: ''
   description: ''

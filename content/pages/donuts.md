@@ -9,13 +9,13 @@ sections:
         content: |
           #### **Donuts - Large**&#xA;
 
-          *   Custard filled donuts – R20 each
+          *   Custard filled donuts
 
-          *   Assorted flavours – R150 a dozen
+          *   Assorted flavours
 
-          *   Cinnamon – R100 a dozen
+          *   Cinnamon
 
-          *   3D Donuts – From R15 each
+          *   3D Donuts
         actions: []
         type: grid_item
       - title_url: lorem-ipsum
@@ -23,9 +23,9 @@ sections:
         content: |
           #### **Donuts – Mini**&#xA;
 
-          *   Box of 30 – R70 (half chocolate/half vanilla)
+          *   Box of 30 (half chocolate/half vanilla)
 
-          *   Add colour chocolate – R10 per box (per colour)
+          *   Add colour chocolate
         actions: []
         type: grid_item
     type: section_grid
@@ -36,7 +36,6 @@ sections:
     content: |
       ## Custard-filled Donuts&#xA;
 
-      **R20 each**
 
       #### [Order On Whatsapp](https://wa.me/message/WYKY5SMM27SEH1)
     actions: []
