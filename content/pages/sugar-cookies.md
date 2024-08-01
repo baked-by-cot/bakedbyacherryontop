@@ -2,8 +2,6 @@
 title: A beautiful Collection of our baked       Sugar Cookies
 sections:
   - section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    image_position: left
     content: |
       ## Cute Llama inspired Cookies
 
@@ -12,10 +10,7 @@ sections:
       #### [Order On Whatsapp](https://wa.me/message/WYKY5SMM27SEH1)&#xA;&#xA;
     actions: []
     type: section_content
-    image: /images/good-saturn.png
   - section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    image_position: left
     content: |
       ## Beautiful Musically Inspired cookies
 
@@ -24,10 +19,7 @@ sections:
       #### [Order On Whatsapp](https://wa.me/message/WYKY5SMM27SEH1)&#xA;&#xA;
     actions: []
     type: section_content
-    image: /images/maroon-avocado.png
   - section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    image_position: left
     content: |
       ## Camouflaged themed Cookies
 
@@ -36,10 +28,7 @@ sections:
       #### [Order On Whatsapp](https://wa.me/message/WYKY5SMM27SEH1)&#xA;&#xA;
     actions: []
     type: section_content
-    image: /images/pleasant-bee.png
   - section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    image_position: left
     content: |
       ## Christmas Decorated Gingerbread House
 
@@ -48,10 +37,7 @@ sections:
       #### [Order On Whatsapp](https://wa.me/message/WYKY5SMM27SEH1)&#xA;&#xA;
     actions: []
     type: section_content
-    image: /images/wonderful-sage (1).png
   - section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    image_position: left
     content: |
       ## Beautiful Classic Red & Green Christmas Cookies&#xA;
 
@@ -60,10 +46,7 @@ sections:
       #### [Order On Whatsapp](https://wa.me/message/WYKY5SMM27SEH1)&#xA;&#xA;
     actions: []
     type: section_content
-    image: /images/4 (1).png
   - section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    image_position: left
     content: |
       ## Cute Halloween inspired cookies&#xA;
 
@@ -72,10 +55,7 @@ sections:
       #### [Order On Whatsapp](https://wa.me/message/WYKY5SMM27SEH1)&#xA;&#xA;
     actions: []
     type: section_content
-    image: /images/5 (1).png
   - section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    image_position: left
     content: |
       ## Beautiful Snowflake inspired Cookies&#xA;
 
@@ -84,7 +64,6 @@ sections:
       #### [Order On Whatsapp](https://wa.me/message/WYKY5SMM27SEH1)&#xA;&#xA;
     actions: []
     type: section_content
-    image: /images/4 (1)-17da0157.png
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
@@ -96,10 +75,7 @@ sections:
       #### [Order On Whatsapp](https://wa.me/message/WYKY5SMM27SEH1)&#xA;&#xA;
     actions: []
     type: section_content
-    image: /images/0F8D5D48-0CB3-43D1-B555-79579D9DD0B3.JPG
   - section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    image_position: left
     content: |
       ## The Cookie Monster
 
@@ -108,10 +84,7 @@ sections:
       #### [Order On Whatsapp](https://wa.me/message/WYKY5SMM27SEH1)&#xA;&#xA;
     actions: []
     type: section_content
-    image: /images/1E00E25F-269E-4016-BFEA-961E7EC9DDBC.JPG
   - section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    image_position: left
     content: |
       ## Army
 
@@ -120,10 +93,7 @@ sections:
       #### [Order On Whatsapp](https://wa.me/message/WYKY5SMM27SEH1)&#xA;&#xA;
     actions: []
     type: section_content
-    image: /images/4F4BF60C-C906-4B4E-8384-5F14F4F2E966.JPG
   - section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    image_position: left
     content: |
       ## Llama
 
@@ -132,10 +102,7 @@ sections:
       #### [Order On Whatsapp](https://wa.me/message/WYKY5SMM27SEH1)&#xA;&#xA;
     actions: []
     type: section_content
-    image: /images/34D8AE50-F8CA-4D3B-96E1-01297C3B2425.JPG
   - section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    image_position: left
     content: |
       ## Medical
 
@@ -144,10 +111,7 @@ sections:
       #### [Order On Whatsapp](https://wa.me/message/WYKY5SMM27SEH1)&#xA;&#xA;
     actions: []
     type: section_content
-    image: /images/64D27AE1-7932-4CEC-B6B6-8FD37FBC13EC.JPG
   - section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    image_position: left
     content: |
       ## Mustang
 
@@ -156,10 +120,7 @@ sections:
       #### [Order On Whatsapp](https://wa.me/message/WYKY5SMM27SEH1)&#xA;&#xA;
     actions: []
     type: section_content
-    image: /images/587A9265-6BB4-4AA6-9F04-34C7C66208EC.JPG
   - section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    image_position: left
     content: |
       ## Painter
 
@@ -168,10 +129,7 @@ sections:
       #### [Order On Whatsapp](https://wa.me/message/WYKY5SMM27SEH1)&#xA;&#xA;
     actions: []
     type: section_content
-    image: /images/657C8BF2-E3CA-46B9-AEDA-C1818F5482D1.JPG
   - section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    image_position: left
     content: |
       ## Superhero
 
@@ -180,10 +138,7 @@ sections:
       #### [Order On Whatsapp](https://wa.me/message/WYKY5SMM27SEH1)&#xA;&#xA;
     actions: []
     type: section_content
-    image: /images/723D0627-FB13-4436-98AF-A344100E5073.JPG
   - section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    image_position: left
     content: |
       Super Dad Father's day
 
@@ -192,10 +147,7 @@ sections:
       #### [Order On Whatsapp](https://wa.me/message/WYKY5SMM27SEH1)&#xA;&#xA;
     actions: []
     type: section_content
-    image: /images/15911846-4ef8-4996-8bbb-c416897ac7f0.JPG
   - section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    image_position: left
     content: |
       ## Cross
 
@@ -204,10 +156,7 @@ sections:
       #### [Order On Whatsapp](https://wa.me/message/WYKY5SMM27SEH1)&#xA;&#xA;
     actions: []
     type: section_content
-    image: /images/A341477D-BFB5-413C-908E-4381788C5FDE.JPG
   - section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    image_position: left
     content: |
       ## Harry Potter
 
@@ -216,7 +165,6 @@ sections:
       #### [Order On Whatsapp](https://wa.me/message/WYKY5SMM27SEH1)&#xA;&#xA;
     actions: []
     type: section_content
-    image: /images/f827670a-9c37-4d8a-bac4-6d9f8d6b693d.jpg
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
