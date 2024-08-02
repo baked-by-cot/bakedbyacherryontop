@@ -35,7 +35,7 @@ sections:
 
       *   Koeksisters
 
-      *   Lemon Merangue Tartlets
+      *   Lemon Meringue Tartlets
 
       *   Mini Donuts
 
