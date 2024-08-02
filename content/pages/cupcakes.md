@@ -9,23 +9,23 @@ sections:
         content: |
           #### **Cupcakes**
 
-          *   Red velvet
+          *   Red velvet - From R25
 
-          *   Carrot
+          *   Carrot - From R25
 
-          *   Lemon
+          *   Lemon - From R20
 
-          *   Chocolate vanilla
+          *   Chocolate/vanilla - From R14
 
-          *   Double chocolate
+          *   Double chocolate - From R18
 
-          *   Blueberry
+          *   Blueberry - From R20
         actions: []
         type: grid_item
       - title_url: lorem-ipsum
         image_alt: lorem-ipsum
         content: |
-          #### **Buttercream essenses**&#xA;
+          #### **Buttercream Essenses / Flavour**&#xA;
 
           Orange, Lemon, Caramel, Tutti frutti,
 
@@ -38,14 +38,16 @@ sections:
           Peach, Hazelnut, Lime, Cherry,
 
           Condense milk, Cookie and cream
+
+          Additional R100 per dozen
         actions: []
         type: grid_item
       - title_url: lorem-ipsum
         image_alt: lorem-ipsum
         content: |+
-          ##### **Buttercream 2D topper Cupcakes**
+          ##### **Buttercream 2D topper Cupcakes - From R20**
 
-          ##### **Buttercream 3D topper Cupcakes**
+          ##### **Buttercream 3D topper Cupcakes - From R25**
 
 
 
