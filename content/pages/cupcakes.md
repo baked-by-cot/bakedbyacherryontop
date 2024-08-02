@@ -39,7 +39,7 @@ sections:
 
           Condense milk, Cookie and cream
 
-          Additional R100 per dozen
+          **Additional R100 per dozen**
         actions: []
         type: grid_item
       - title_url: lorem-ipsum
