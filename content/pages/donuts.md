@@ -23,9 +23,9 @@ sections:
         content: |
           #### **Donuts – Mini**&#xA;
 
-          *   Box of 30 (half chocolate/half vanilla)
+          *   Box of 60 (half chocolate/half vanilla) - R130
 
-          *   Add colour chocolate
+          *   Add colour chocolate - R10 per colour (per box)
         actions: []
         type: grid_item
     type: section_grid
